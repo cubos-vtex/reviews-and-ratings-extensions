@@ -1,0 +1,12 @@
+query AverageRatingByProductId($productId: String!) {
+  averageRatingByProductId(productId: $productId)
+    @context(provider: "vtex.reviews-and-ratings") {
+    average
+    starsFive
+    starsFour
+    starsThree
+    starsTwo
+    starsOne
+    total
+  }
+}
