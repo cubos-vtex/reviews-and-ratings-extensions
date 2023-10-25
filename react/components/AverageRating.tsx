@@ -28,12 +28,8 @@ const AverageRating = () => {
   const productId = productContext?.product?.productId
 
   const { data, loading } = useQuery<AverageData>(AverageRatingByProductId, {
-    variables: {
-      productId,
-    },
+    variables: { productId },
     skip: !productId,
-    fetchPolicy: 'network-only',
-    ssr: false,
   })
 
   if (loading) {
