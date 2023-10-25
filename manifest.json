@@ -17,9 +17,5 @@
     "vtex.reviews-and-ratings": "3.x"
   },
   "registries": ["smartcheckout"],
-  "billingOptions": {
-    "type": "free",
-    "availableCountries": ["*"]
-  },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
