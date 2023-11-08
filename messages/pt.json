@@ -1,3 +1,4 @@
 {
-  "store/reviews.list.writeReview": "Escreva uma avaliação"
+  "store/reviews.list.writeReview": "Escreva uma avaliação",
+  "store/reviews.list.login": "Faça login para escrever uma avaliação."
 }

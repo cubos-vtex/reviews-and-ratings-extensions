@@ -1,0 +1,15 @@
+query AppSettings {
+  appSettings @context(provider: "vtex.reviews-and-ratings") {
+    allowAnonymousReviews
+    requireApproval
+    useLocation
+    defaultOpen
+    defaultStarsRating
+    defaultOpenCount
+    showGraph
+    displaySummaryIfNone
+    displayInlineIfNone
+    displaySummaryTotalReviews
+    displaySummaryAddButton
+  }
+}

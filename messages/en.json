@@ -1,3 +1,4 @@
 {
-  "store/reviews.list.writeReview": "Write a review"
+  "store/reviews.list.writeReview": "Write a review",
+  "store/reviews.list.login": "Please log in to write a review."
 }
