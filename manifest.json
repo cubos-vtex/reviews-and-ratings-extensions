@@ -1,7 +1,7 @@
 {
   "vendor": "ssesandbox04",
   "name": "reviews-and-ratings-extensions",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "title": "Reviews & Ratings Extensions",
   "description": "Provide blocks for product reviews and ratings",
   "builders": {
