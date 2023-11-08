@@ -1,0 +1,8 @@
+query ReviewsByProductId($productId: String!)
+@context(provider: "vtex.reviews-and-ratings") {
+  reviewsByProductId(productId: $productId) {
+    range {
+      total
+    }
+  }
+}

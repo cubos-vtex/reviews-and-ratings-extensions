@@ -21,7 +21,8 @@
     "vtex.css-handles": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@0.4.4/public/@types/vtex.css-handles",
     "vtex.product-context": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.0/public/@types/vtex.product-context",
     "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.134.2/public/@types/vtex.render-runtime",
-    "vtex.reviews-and-ratings": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.reviews-and-ratings@3.13.2/public/@types/vtex.reviews-and-ratings"
+    "vtex.reviews-and-ratings": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.reviews-and-ratings@3.13.2/public/@types/vtex.reviews-and-ratings",
+    "vtex.styleguide": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.styleguide@9.146.9/public/@types/vtex.styleguide"
   },
   "resolutions": {
     "@types/jest": "26.0.15"

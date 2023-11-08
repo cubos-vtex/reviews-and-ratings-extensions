@@ -1,5 +1,8 @@
 {
   "average-rating": {
     "component": "AverageRating"
+  },
+  "has-reviews-condition": {
+    "component": "HasReviewsCondition"
   }
 }
