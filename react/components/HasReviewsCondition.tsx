@@ -108,7 +108,7 @@ const HasReviewsCondition = ({ Then, Else }: Props) => {
             <span
               className={`${handles.writeReviewButton} c-action-primary hover-c-action-primary`}
             >
-              <FormattedMessage id="store/reviews.list.writeReview" />
+              <FormattedMessage id="store/reviews.list.writeFirstReview" />
             </span>
           }
           onClick={() => setFormOpen((open) => !open)}
